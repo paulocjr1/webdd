@@ -1,0 +1,99 @@
+<BODYTIPE html>
+<html>
+<head>
+<title>
+PLAYSTATION 4-SONY
+</TITLE>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css"  href="estilo.css" />
+
+
+</head>
+<body background="https://cdn.wallpapersafari.com/28/33/6dXM8p.jpg">
+<body>
+font-family: arial, helvetica, sans-serif;
+
+font-size: 12px;
+
+}
+
+.menu{
+
+list-style:none;
+
+border:1px solid #c0c0c0;
+
+float:left;
+
+}
+
+/posição interna do menu./ .menu li{ position:relative; float:left; border-right:1px solid #c0c0c0;
+
+}
+
+.menu li a{color:#333; text-decoration:none; padding:5px 10px; display:block;}
+
+.menu li a:hover{
+
+background:#333;
+
+color:#fff;
+
+-moz-box-shadow:0 3px 10px 0 #CCC;
+
+-webkit-box-shadow:0 3px 10px 0 #ccc;
+
+text-shadow:0px 0px 5px #fff;
+
+}
+
+.menu li ul{ position:absolute; background-color:#fff; display:none;
+
+}
+
+.menu li:hover ul, .menu li.over ul{display:block;}
+
+.menu li ul li{
+
+border:1px solid #c0c0c0;
+
+display:block;
+
+width:150px;
+
+}
+<nav>
+<ul class="menu">
+
+<li><a href="https://www.devmedia.com.br/menu-em-css-menu-dropdown-horizontal-com-html5-e-css3/37205">Home</a></li>
+<li><a href="https://www.devmedia.com.br/menu-em-css-menu-dropdown-horizontal-com-html5-e-css3/37205">Historia</a></li>
+<li><a href="https://www.devmedia.com.br/menu-em-css-menu-dropdown-horizontal-com-html5-e-css3/37205">Hardware</a></li>
+<ul>
+<li><a href="https://www.playstation.com/pt-br/">PlayStation 5</a></li>
+<li><a href="https://www.devmedia.com.br/menu-em-css-menu-dropdown-horizontal-com-html5-e-css3/37205">PlayStation4</a></li>
+</ul>
+</nav>
+
+<h1><center><font color="white"><h1 style="font-family:aharoni"><b>COMPRE JÁ SEU PLAYSTATION 4</b></font></h1></center>
+<hr>
+<center><img src="https://media.playstation.com/is/image/SCEA/footerpslogo-nhasset?$Footer_Links_Row_Logo$" height="40" width="40" align="top">
+</center>
+<h3><p><font color="white"><center><h3 style="font-family:aharoni">ADQUIRA AGORA SEU PLAYSTATION 4 E JOGUE JOGOS DE ULTIMA GERAÇÃO</h3></p></center>
+<br>
+
+<center><p><h2><h2 style="font-family:Arabic Typesetting">Apresentando o PlayStation 4.
+<p><h3><h4 style="font-family:Arabic Typesetting"><Agora mais leve e mais fino que nunca
+<p><h4>Disco rígido de 1 TB
+<p><h4>Todos os maiores jogos, programas de TV, músicas e muito mais.
+<br>
+</center>
+<img src="https://media.playstation.com/is/image/SCEA/playstation-4-slim-vertical-product-shot-01-us-07sep16?$native_t$" height="300" width="300" align="left">
+<center><iframe width="460" height="285" src="https://www.youtube.com/embed/FyIwEFXOcaE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<br>
+<hr>
+<br>
+</body>
+
+</html>
+

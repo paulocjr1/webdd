@@ -1,0 +1,32 @@
+body {
+  display: grid;
+  font-family: Arial, sans-serif;
+  grid-gap: 1rem;
+  grid-template-areas:
+    "header header header"
+    "aside main main"
+    "footer footer footer";
+  grid-template-columns: auto auto autopx;
+  grid-template-rows: auto auto auto;
+  align: center;
+
+}
+
+.o-header {
+  grid-area: header;
+  padding: 0.1rem;
+  opacity: 4.;
+}
+
+
+.o-main {
+  grid-area: main;
+}
+
+
+.o-header, .o-aside, .o-main {
+  background: rgba(100,149,237,0.4);
+  color: #000000;
+
+}
+
